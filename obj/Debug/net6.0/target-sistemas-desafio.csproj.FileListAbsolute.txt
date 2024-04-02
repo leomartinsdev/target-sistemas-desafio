@@ -1,0 +1,15 @@
+/home/leodev/Desktop/target/target-sistemas-desafio/bin/Debug/net6.0/target-sistemas-desafio
+/home/leodev/Desktop/target/target-sistemas-desafio/bin/Debug/net6.0/target-sistemas-desafio.deps.json
+/home/leodev/Desktop/target/target-sistemas-desafio/bin/Debug/net6.0/target-sistemas-desafio.runtimeconfig.json
+/home/leodev/Desktop/target/target-sistemas-desafio/bin/Debug/net6.0/target-sistemas-desafio.dll
+/home/leodev/Desktop/target/target-sistemas-desafio/bin/Debug/net6.0/ref/target-sistemas-desafio.dll
+/home/leodev/Desktop/target/target-sistemas-desafio/bin/Debug/net6.0/target-sistemas-desafio.pdb
+/home/leodev/Desktop/target/target-sistemas-desafio/obj/Debug/net6.0/target-sistemas-desafio.csproj.AssemblyReference.cache
+/home/leodev/Desktop/target/target-sistemas-desafio/obj/Debug/net6.0/target-sistemas-desafio.GeneratedMSBuildEditorConfig.editorconfig
+/home/leodev/Desktop/target/target-sistemas-desafio/obj/Debug/net6.0/target-sistemas-desafio.AssemblyInfoInputs.cache
+/home/leodev/Desktop/target/target-sistemas-desafio/obj/Debug/net6.0/target-sistemas-desafio.AssemblyInfo.cs
+/home/leodev/Desktop/target/target-sistemas-desafio/obj/Debug/net6.0/target-sistemas-desafio.csproj.CoreCompileInputs.cache
+/home/leodev/Desktop/target/target-sistemas-desafio/obj/Debug/net6.0/target-sistemas-desafio.dll
+/home/leodev/Desktop/target/target-sistemas-desafio/obj/Debug/net6.0/ref/target-sistemas-desafio.dll
+/home/leodev/Desktop/target/target-sistemas-desafio/obj/Debug/net6.0/target-sistemas-desafio.pdb
+/home/leodev/Desktop/target/target-sistemas-desafio/obj/Debug/net6.0/target-sistemas-desafio.genruntimeconfig.cache
